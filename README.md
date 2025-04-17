@@ -1,4 +1,7 @@
 # ContactManager
 
-It's a simple terminal based contact manager. It doesn't have any saving or loading function.<br />
+It's a simple terminal based contact manager. It doesn't have any saving or loading function.\
 I made it for self-improvement. So please don't make any future updates in soon.
+
+**Using**\
+Just type python `contactmgr.py`
